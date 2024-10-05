@@ -101,3 +101,9 @@ main {
 .weather-card p i {
   margin-inline-end: 1rem;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+  padding: 1rem;
+}
